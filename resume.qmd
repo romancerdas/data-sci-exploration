@@ -1,89 +1,101 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Roman Cerdas's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Roman Cerdas
+Computer Science student focused on cybersecurity, blockchain technology, and data science.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:roman.a.cerdas@gmail.com">roman.a.cerdas@gmail.com</a>
+| <a href="https://github.com/romancerdas">GitHub</a>
+| <a href="https://www.linkedin.com/in/roman-cerdas-11a1b0377/">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying computer science full time and developing technical skills through coursework and software projects.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+IT support, troubleshooting, cybersecurity fundamentals, Python, data analysis, technical documentation, Microsoft Office, and Google Workspace.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cybersecurity, blockchain technology, data science, network security, software development, and data analytics.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2017 - Present`
+__Brigham Young University–Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- General Studies with a Computer Science focus
 
-- Sizar
+`July 2023 - September 2024`
+__Google Cybersecurity Certificate__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Cybersecurity fundamentals, network security, Linux, SQL, Python, and security operations
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`Present`
+Eagle Scout
 
-Associate, *French Academy of Science*, Paris, France
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2026`
+[Spotify Analysis](https://github.com/romancerdas/spotify_analysis), a data science project exploring and analyzing Spotify-related data.
 
-`1669`
-Lectiones opticæ.
+`2026`
+[Chain Scout](https://github.com/romancerdas/chain_scout_folder), a blockchain-focused software project with a completed project demonstration.
 
-etc. etc. etc.
+`2026`
+[Rust Stock Portfolio Tracker](https://github.com/romancerdas/rust_stock_portfolio_tracker), a Rust application designed to track and manage a stock portfolio.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2024`
+Google Cybersecurity Certificate, covering cybersecurity analysis, network monitoring, incident response, Linux, SQL, and Python.
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`September 2017 - Present`
+__Brigham Young University–Idaho__
 
-- Warden
-- Minted coins
+- Full-time student
+- Completing coursework in computer science, cybersecurity, data science, and software development
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`August 2023 - October 2023`
+__Evolve 1 EMS__
+
+- EMT
+- Delivered fast and accurate responses in high-pressure situations
+- Maintained detailed documentation and patient records
+
+`November 2022 - May 2023`
+__American Red Cross__, Laguna Hills, California
+
+- Collections Specialist
+- Provided customer service and support in a healthcare environment
+- Managed data entry and documentation with high accuracy
+- Coordinated logistics and resolved donor concerns
+
+`November 2021 - August 2022`
+__Care Ambulance Service__, Orange County, California
+
+- EMT-B
+- Responded to emergency calls and supported patient care
+- Maintained equipment and ensured operational readiness
+- Collaborated with team members under pressure
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
